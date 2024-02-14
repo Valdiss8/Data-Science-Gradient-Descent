@@ -1,1 +1,1 @@
-Predicting Hous Prices with Gradient Descent.
+Predicting House Prices with Gradient Descent.
